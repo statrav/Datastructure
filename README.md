@@ -1,3 +1,3 @@
 # pages
 
-This is a code space for study.
+This is a space for study.
