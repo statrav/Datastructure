@@ -2,5 +2,6 @@
 
 This is a space for study.
 
-1. Datastructure
+1. Linear structure
+2. Non-linear structure
 
